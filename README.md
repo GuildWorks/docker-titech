@@ -1,36 +1,34 @@
-# 事前準備
+#modify by haruki
+# README
+#test
+#test2
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
- * Docker
- * Git
- * エディタ
+Things you may want to cover:
 
-## Docker
+* Ruby version
 
-### Mac
-* https://www.docker.com/docker-mac
+* System dependencies
 
-### Windows
-* https://store.docker.com/editions/community/docker-ce-desktop-windows
+* Configuration
 
-## git
+* Database creation
 
-### Mac
+* Database initialization
 
-ターミナルを開いて、
+* How to run the test suite
 
-```
-$ brew install git
-```
+* Services (job queues, cache servers, search engines, etc.)
 
-## エディタ
+* Deployment instructions
 
-必要に応じて、以下よりダウンロードしてください。
-
+=======
 https://atom.io/
 
 
 # 環境構築
-
+#土屋がいじった部分。
 * リポジトリをクローンする
 * ディレクトリ名を変更し、ディレクトリに移動する
 * プロジェクト名を設定する
@@ -161,3 +159,4 @@ $ git add .
 $ git commit -m 'new project'
 $ git push -u origin master
 ```
+>>>>>>> e6fd0af14712eb47d06304fa62c527708947d6cd
